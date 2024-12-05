@@ -120,7 +120,21 @@ With anything I develop, I first develop the visual look. Transitioning into the
 
 ## Functions and Props
 
-Now for the meat of the menu bar. Here, when the user clicked on a menu item, I wanted the function to return its value, make it active, and wrap it in the active CSS class. Check out the code below:
+Now for the meat of the menu bar. Here, when the user clicked on a menu item, I wanted the function to return its value, make it active, and wrap it in the active CSS class.
+
+---
+
+### ***A Note about React***
+
+One important thing to understand about React: functions should not modify any incoming props. It’s essentially a bottom-to-top architecture, and a top-to-bottom interaction. You start with your basic building blocks (components), combining and building them on top of each other into your higher-level components.
+
+So, for example, if I had a function importing the variable X, that function should not modify X in any way. It should use X to modify its own return. In React, props are read-only and should not be modified by the component that receives them. This is because React follows a unidirectional data flow, where data is passed from parent to child components. Modifying props would break this flow and lead to unpredictable behavior. Instead, components should use props to render UI and manage their own state if they need to track changes or perform updates. This approach helps maintain a clear separation of concerns and ensures that components remain predictable and easy to debug.
+
+This was one of the major adjustments I had to get through to really understand React.
+
+---
+
+Back to the menu bar. Check out the code below:
 
 ```typescript
 /** MenuBar.tsx */
@@ -287,4 +301,8 @@ Whew! I hope this helps a bit, and you got a good look at how I created a basic 
 
 ## Changelog
 
-Improvements and updates will appear here.
+12/5/2024
+
+* Added a note about React
+    
+* Added CodeSandbox
