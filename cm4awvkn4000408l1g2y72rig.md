@@ -41,7 +41,7 @@ Essentially, this architecture creates a durable, reusable, and testable library
 
 If you want to skip ahead and view the finished story, [check out the live Storybook](https://storybook.stephenjlu.com/?path=/story/menu-bar--default).
 
-## CSS Formatting
+## CSS Styling
 
 With anything I develop, I first develop the visual look. Transitioning into the component mindset took me a little adjustment, since I was so used to hardcoding everything with HTML and CSS. I now had to think in props and args. Here is the styling I employed for my black menu bar:
 
