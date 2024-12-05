@@ -277,4 +277,10 @@ To review:
 
 [**Check out the live Storybook**](https://storybook.stephenjlu.com/?path=/story/menu-bar--default)
 
+### What's Next?
+
+Make the menu bar responsive to screen size (desktop vs. mobile).
+
+---
+
 Whew! I hope this helps a bit, and you got a good look at how I created a basic menu bar for my website. Feel free to drop a comment below or [contact me](https://www.stephenjlu.com/contact#main). Happy coding!
