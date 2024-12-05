@@ -273,7 +273,7 @@ To review:
 * menuBar.stories.ts - Provides the instructions for examination in Storybook
     
 
-%[https://codesandbox.io/embed/t46kwd?view=editor+%2B+preview&module=%2Fsrc%2FMenuBar.tsx&expanddevtools=1] 
+%[https://codesandbox.io/embed/t46kwd?view=preview&module=%2Fsrc%2FMenuBar.tsx&hidenavigation=1&expanddevtools=1] 
 
 ### What's Next?
 
