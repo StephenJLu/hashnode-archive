@@ -264,6 +264,8 @@ I’ll admit, I was a little overwhelmed at first with this different kind of th
 
 In the end, Storybook takes these three files (menuBar.css, MenuBar.tsx, menuBar.stories.ts) and paints a complete picture of a single component independent of any other element, allowing you to look at how it looks and behaves on its own.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733378753774/f68f1b32-9f6a-494e-885e-201873ef5872.png align="center")
+
 To review:
 
 * menuBar.css - Provides the styling and isolated CSS animations
