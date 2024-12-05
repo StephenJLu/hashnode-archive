@@ -287,40 +287,4 @@ Whew! I hope this helps a bit, and you got a good look at how I created a basic 
 
 ## Changelog
 
-12/05/2024
-
-I’ve improved the logic to remove the local variable redundancy. We’re now using only ‘activeItem’.
-
-```typescript
-/** Primary UI component for navigation */
-export const MenuBar = ({ items, backgroundColor, onSelect, activeItem }: MenuBarProps) => {
-  const handleClick = (item: MenuItem) => {    
-    if (item.onClick) {
-      item.onClick();
-    }
-    if (onSelect) {
-      onSelect(item);
-    }
-  };
-
-  return (
-    <nav className="storybook-menu-bar" style={{ backgroundColor }}>
-      <ul className="storybook-menu-bar__list">
-        {items.map((item, index) => (
-          <li key={index} className="storybook-menu-bar__item">
-            <button
-              type="button"
-              onClick={() => handleClick(item)}
-              className={`storybook-menu-bar__button ${
-                activeItem === item.label ? 'storybook-menu-bar__active' : ''
-              }`}
-            >
-              {item.label}
-            </button>
-          </li>
-        ))}
-      </ul>
-    </nav>
-  );
-};
-```
+Improvements and updates will appear here.
