@@ -145,3 +145,11 @@ To create my GIF, I chose to create a PNG sequence first, then used [**ImageMagi
 And there you have it! If you want to see the animation in action, [check out the Storybook](https://storybook.stephenjlu.com/iframe?globals=&args=&id=page--home-page&viewMode=story).
 
 Hopefully, this gave you some ideas and ways to create your own. And never forget, ***you’re a star!***
+
+## Changelog
+
+December 7, 2024
+
+* I made the header image a static image that I added the stars in. The contrast between the star field and skyline was too sharp, and I didn't really like that.
+    
+* Instead, I made the page background an animated star field and am now working on making it a darkly themed website.
