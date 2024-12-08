@@ -57,27 +57,27 @@ And now for the rendering:
 ```typescript
 /* menuBar.tsx */
 /* Rendering, too */
-import React, { useRef } from "react";
-import "./menuBar.css";
-import MenuButton, { MenuItem } from "./MenuButton";
-export interface MenuBarProps {
-  items: MenuItem[];
-  backgroundColor?: string;
-  onSelect?: (item: MenuItem) => void;
-  activeItem?: string;
-}
-export const MenuBar: React.FC<MenuBarProps> = ({
-  items,
-  backgroundColor,
-  onSelect,
-  activeItem,
-}) => {
-  const menuBarRef = useRef<HTMLDivElement>(null);
-  const handleClick = (item: MenuItem) => {
-    if (onSelect) {
-      onSelect(item);
-    }
-  };
+return (
+    <div
+      className="menu-bar-container"
+      ref={menuBarRef}
+      style={{ backgroundColor }}
+    >
+      <nav className="menu-bar">
+        <ul className="menu-bar-list">
+          {items.map((item, index) => (
+            <MenuButton
+              key={index}
+              item={item}
+              isActive={activeItem === item.label}
+              onClick={handleClick}
+            />
+          ))}
+        </ul>
+      </nav>
+    </div>
+  );
+};
 ```
 
 And here’s the awesomeness that is React: `MenuButton.tsx`:
@@ -131,4 +131,4 @@ I certainly learned my lesson. Getting adjusted to a new system isn’t quick or
 
 ### CodeSandbox Preview
 
-<iframe src="https://codesandbox.io/embed/qxczfv?view=preview&amp;module=%2Fsrc%2FPage.tsx&amp;hidenavigation=1&amp;expanddevtools=1" style="width:100%;height:75vh;border:0;border-radius:4px;overflow:hidden" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+<iframe src="https://codesandbox.io/embed/qxczfv?view=preview&module=%2Fsrc%2FPage.tsx&hidenavigation=1&expanddevtools=1" style="width:100%;height:75vh;border:0;border-radius:4px;overflow:hidden" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
