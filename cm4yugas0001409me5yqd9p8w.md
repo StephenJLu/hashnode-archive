@@ -41,10 +41,10 @@ After you set up an environment variable, you’ll need to create a deployment i
 In your code, you’ll need to insert a reference to Cloudflare’s environment variables to access the secret. In my case, Cloudflare Pages is on a Remix framework, so I needed `@remix-run/cloudflare` available.
 
 ```typescript
-// example-contact-form.tsx
-
+/* example-contact-form.tsx
+...
 Imports as necessary
-......
+...
 */
 import { json } from '@remix-run/cloudflare';
 /* Primary action function */
@@ -128,7 +128,7 @@ export const Contact = () => {
 
 That’s it! Three easy steps. If you want to test your app before going live, you can create a `dev.vars` file in the root folder of your project.
 
-***Remember <mark>.gitignore </mark>* <mark>*</mark>*<mark>.vars</mark>! You don’t want to expose secrets.***
+*Remember <mark>.gitignore </mark>* <mark>.vars</mark>! You don’t want to expose secrets.\*\*\*
 
 ```plaintext
 //dev.vars//
