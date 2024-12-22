@@ -48,7 +48,8 @@ Imports as necessary
 */
 import { json } from '@remix-run/cloudflare';
 /* Primary action function */
-export async function action ({ request, context }: { request: Request, context: any }) {
+export async function action ({ request, context }: 
+{ request: Request, context: any }) {
 /* SendLayer's API Endpoint. Adjust based on documentation */
 const sendLayerEndpoint = 'https://console.sendlayer.com/api/v1/email';
 /*...
@@ -62,7 +63,8 @@ try {
 /* Retrieving the environment variable here */
         'Authorization': `Bearer ${context.cloudflare.env.SL_API_KEY}`,
       },
-/* Make sure your payload meets the requirements. This particular example meets SendLayer's
+/* Make sure your payload meets the requirements. 
+This particular example meets SendLayer's
 required payload */
       body: JSON.stringify({
         "from": {
@@ -84,10 +86,10 @@ required payload */
           <p><strong>Message:</strong><br/>${message}</p>
         </body></html>`,
         "PlainContent": `You have a new contact form submission:        
-Name: ${name}
-Email: ${email}
-Message:
-${message}`,
+        Name: ${name}
+        Email: ${email}
+        Message:
+        ${message}`,
         "Tags": [
           "testing",
           "example contact form"
@@ -102,7 +104,8 @@ ${message}`,
     if (!response.ok) {
       const errorData = await response.json();
       console.error('SendLayer Error:', errorData);
-      return json({ error: 'Failed to send email. Please try again later.' }, { status: 500 });
+      return json({ error: 'Failed to send email. 
+        Please try again later.' }, { status: 500 });
     }
 
     console.log('Received POST request');
@@ -113,7 +116,8 @@ ${message}`,
 
   } catch (error) {
     console.error('Error sending email:', error);
-    return json({ error: 'An unexpected error occurred.' }, { status: 500 });
+    return json({ error: 'An unexpected error occurred.' }, 
+        { status: 500 });
   }
 };
 /* And now, your contact form itself! */
