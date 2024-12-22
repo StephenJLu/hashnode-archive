@@ -132,7 +132,7 @@ export const Contact = () => {
 
 That’s it! Three easy steps. If you want to test your app before going live, you can create a `dev.vars` file in the root folder of your project.
 
-*Remember <mark>.gitignore </mark>* <mark>.vars</mark>! You don’t want to expose secrets.\*\*\*
+*Remember <mark>.gitignore .vars</mark>! You don’t want to expose secrets.*
 
 ```plaintext
 //dev.vars//
