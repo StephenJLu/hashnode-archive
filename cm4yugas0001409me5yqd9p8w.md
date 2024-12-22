@@ -26,7 +26,7 @@ I wanted to add a basic contact form to my website using SendLayer API. I alread
 
 Head over to your SendLayer settings to create a new API key for your application.
 
-## Step Two: Set Up and Environment Variable in Cloudflare
+## Step Two: Set Up an Environment Variable in Cloudflare
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734823708053/f61de765-9147-4d02-b984-c02c2bacf144.png align="center")
 
