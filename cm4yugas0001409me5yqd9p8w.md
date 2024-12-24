@@ -38,7 +38,9 @@ After you set up an environment variable, you’ll need to create a deployment i
 
 ## Step Three: Link Your App with the Environment Variable
 
-In your code, you’ll need to insert a reference to Cloudflare’s environment variables to access the secret. In my case, Cloudflare Pages is on a Remix framework, so I needed `@remix-run/cloudflare` available.
+In your code, you’ll need to insert a reference to Cloudflare’s environment variables to access the secret. In my case, Cloudflare Pages is on a Remix framework, so I had `@remix-run/cloudflare` available to use.
+
+Here is the primary action function:
 
 ```typescript
 /* example-contact-form.tsx
@@ -63,6 +65,11 @@ try {
 /* Retrieving the environment variable here */
         'Authorization': `Bearer ${context.cloudflare.env.SL_API_KEY}`,
       },
+```
+
+Then, the JSON payload:
+
+```typescript
 /* Make sure your payload meets the requirements. 
 This particular example meets SendLayer's
 required payload */
@@ -100,6 +107,11 @@ required payload */
         }
       }),
     });
+```
+
+Then error handling and console checks for development. At the end is your contact form rendering, as you will.
+
+```typescript
 /* Error handling and console checks */
     if (!response.ok) {
       const errorData = await response.json();
@@ -122,9 +134,7 @@ required payload */
 };
 /* And now, your contact form itself! */
 export const Contact = () => {
-...
-...
-...
+//...
 }
 ```
 
