@@ -111,7 +111,7 @@ const token = formData.get('cf-turnstile-response') as string;
 
 This last part is the most involved and is the meat and potatoes of the entire process: server-side validation.
 
-Once the user hits “Submit,” the token is sent to the worker along with the super-secret key that verifies the token as originating from the specified website. Once the token is verified, a success response is sent back and the user is able to complete the requested action.
+Once the user hits “Submit,” the token is sent to the worker, which then passes it to the Siteverify API along with the super-secret key that verifies the token as originating from the specified website. Once the token is verified, a success response is sent back and the user is able to complete the requested action.
 
 ### Retrieving the token from the form
 
