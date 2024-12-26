@@ -57,6 +57,20 @@ In the code below the following steps are carried out:
 6. Calls onWidgetId callback (if used in parent component)
     
 
+### The Widget is Rendered
+
+```typescript
+/* ... Form rendering ... */
+ <Turnstile
+          theme="dark" // sets the theme          
+          success={status === 'success'} // indicates success, removal of widget
+          {/* Other props/styling */}
+        />
+/*... Submission rendering ...*/
+```
+
+### The Component Itself
+
 ```typescript
 // The script is injected into the head, and explicitly renders the widget
  useEffect(() => {
@@ -198,7 +212,7 @@ Once the action is successful and complete, the component cleans up after itself
 return () => {
       document.head.removeChild(script);
     };
-  }, [onWidgetId]);
+  }, [onWidgetId, theme]);
 
   /* Remove Turnstile widget after successful submission */
   useEffect(() => {
@@ -250,5 +264,5 @@ const isBot = formData.get('phone') as string;
             autoComplete="phone"
             type="hidden"
             {...phone}
-            />        
+            />
 ```
