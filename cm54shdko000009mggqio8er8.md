@@ -38,7 +38,7 @@ There are three primary interactions that occur when you visit a form protected 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735182360074/08723369-e9e0-4bfd-b50a-3a0eb125afc0.png align="center")
 
-In the first part, the user visits the website form and encounters the protection. A script in the head, calls the Cloudflare API to generate the widget and present it to the user.
+In the first part, the user visits the website form and encounters the protection. A script in the head, calls the Cloudflare API to generate the widget and presents it to the user.
 
 In the code below the following steps are carried out:
 
