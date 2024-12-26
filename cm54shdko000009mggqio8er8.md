@@ -256,13 +256,13 @@ const isBot = formData.get('phone') as string;
             <Input
             id="phone"
             required={false}
-            className={styles.botkiller}
+            className={styles.botkiller} //hidden with CSS
             label="Phone"
             name="phone"
             maxLength={MAX_EMAIL_LENGTH}
             multiline={false}            
             autoComplete="phone"
-            type="hidden"
+            type="phone"
             {...phone}
             />
 ```
