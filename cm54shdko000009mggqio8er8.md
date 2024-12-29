@@ -29,7 +29,7 @@ There are three primary interactions that occur when you visit a form protected 
 
 * [GitHub Repo](https://github.com/StephenJLu/cloudflare-turnstile-react)
     
-* [Full Project Documentation](https://docs.stephenjlu.com/docs-stephenjlu/how-to-implement-cloudflares-turnstile)
+* [Full Project Documentation](https://docs.stephenjlu.com/docs-stephenjlu/projects/how-to-implement-cloudflares-turnstile)
     
 * [Live Turnstile Demo](https://www.stephenjlu.com/test)
     
