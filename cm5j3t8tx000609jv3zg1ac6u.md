@@ -26,7 +26,7 @@ In my work, I upgraded the archive management by creating an admin interface to 
     
 * Add the quarter and year of publication to the title based on the file name
     
-    * For example, a pdf named `Nov2021.pdf` would automatically be associated with “4th Quarter 2021” in the database.
+    * For example, a PDF named `Nov2021.pdf` would automatically be associated with “4th Quarter 2021” in the database.
         
 * Display the new publication on the front-end
     
@@ -309,7 +309,7 @@ export default function Comments() {
                 </small>
               </div>
 
-{/* Other rendering */} 
+{/* Other rendering */}
 ```
 
 ### Comments Protection
