@@ -71,7 +71,7 @@ If you want to skip ahead and view the live test, check out [https://stephenjlu.
 
 The workhorse behind R2 management goes back to [Cloudflare Workers](https://developers.cloudflare.com/workers/). I enjoy this service because it’s very lightweight, fast, and serverless. It’s also easy to bind environment variables and secrets.
 
-For the R2 Worker, there are three major parts to the function:
+For the R2 Worker, there are three major parts to its function:
 
 ### CORS Headers
 
