@@ -10,7 +10,7 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1751079751209/795a0
 
 ---
 
-> Over a year ago, I began losing my voice, a core part of my identity. I once sang freely, but now I'm left with only a whisper, requiring extreme effort and energy to speak. This experience has been an ongoing journey of acceptance and adaptation, filled with a complex mix of emotions like frustration and grief. While my voice is gone, I find solace in writing, creating music, and using technology to express myself. Though time hasn't healed this wound, I've learned to adapt, viewing it as an unfolding story of resilience told in silence.
+> Over a year ago, I began losing my voice, a core part of my identity. I once sang freely, but now I'm left with only a whisper, requiring extreme effort and energy to speak. This experience has been an ongoing journey of acceptance and adaptation, filled with a complex mix of emotions like frustration, grief, and anger. While my voice is gone, I find solace in writing, creating music, and using technology to express myself. Though time hasn't healed this wound, I've learned to adapt, viewing it as an unfolding story of resilience told in silence.
 
 A little over a year ago, I posted this quote in an article about initially losing my voice:
 
