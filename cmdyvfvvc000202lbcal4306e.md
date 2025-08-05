@@ -14,7 +14,7 @@ tags: resources, asl
 
 ## My ASL Journey
 
-Growing up, I got interested in learning ASL and I purchased a book. Back then, I learned the alphabet and a few basic signs, but not much else. Fast forward to today, with significant hearing problems and the loss of my voice, becoming fluent in ASL has become a much more urgent need. Throughout my ASL learning experience, I have used a number of resources to learn a difficult language. An essential part of the mindset shift is transitioning from an oral, auditory language to a visual one.
+Growing up, I got interested in learning ASL and I purchased a book. Back then, I learned the alphabet and a few basic signs, but not much else. Fast forward to today, with significant hearing problems and the loss of my voice, becoming fluent in ASL has become a much more urgent need. Throughout my ASL learning experience, I have used a number of resources to learn this difficult language. An essential part of the mindset shift is transitioning from an oral, auditory language to a visual one.
 
 Below are a few of the resources that are available out there. It's not an all-encompassing list, but maybe it'll be enough to get you started.
 
@@ -28,7 +28,8 @@ If you live in San Diego or Orange County, Language Door offers in-person and vi
 
 ## ASL Pinnacle - Jason Gervase
 
-### [https://aslpinnacle.com/](https://aslpinnacle.com/)  
+### [https://aslpinnacle.com/](https://aslpinnacle.com/)
+
 [https://www.instagram.com/aslpinnacle](https://www.instagram.com/aslpinnacle)  
 [https://www.tiktok.com/@jasegervase](https://www.tiktok.com/@jasegervase)  
 [https://www.facebook.com/aslpinnacle](https://www.facebook.com/aslpinnacle)
@@ -37,7 +38,8 @@ Jason founded ASL Pinnacle to provide ASL learning in a supportive environment. 
 
 ## Lifeprint.com/ASLU - Dr. Bill Vicars
 
-### [https://lifeprint.com/](https://lifeprint.com/)  
+### [https://lifeprint.com/](https://lifeprint.com/)
+
 [https://www.youtube.com/@sign-language](https://www.youtube.com/@sign-language)
 
 If self-learning and instruction are more your speed, Dr. Bill Vicars hosts and posts a ton of free content on his website and on YouTube, as part of his ASL University program. He has massive experience and knowledge in ASL education and in the expression and advocacy of Deaf culture.
