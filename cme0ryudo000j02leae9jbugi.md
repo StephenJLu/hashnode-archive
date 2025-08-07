@@ -347,7 +347,7 @@ The following statements are ***bad*** examples of a vision statements. They i
 
 These examples refer to disability, but the main point can apply to various forms of inclusion, such as sex, race, religion, gender identity, sexual orientation, and so on.
 
-Put simply, inclusion is the acknowledgement of being human.
+Simply put, inclusion is the acknowledgement of being human.
 
 > “I don’t want to hire anyone with disabilities. They cost more and I have to do more paperwork, plus it’s not a good look for the lab.”
 
