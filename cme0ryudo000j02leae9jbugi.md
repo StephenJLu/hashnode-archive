@@ -50,7 +50,7 @@ Even if you are not aspiring to act as an authority figure in your field, having
 
 ## Somerset and Mills
 
-In the movie, *Se7en*, two detectives, William Somerset (Morgan Freeman) and David Mills (Brad Pitt), investigate a series of brutal murders that appear to revolve around a theme of the seven deadly sins. Although not explicitly listed in the Bible, in 590 AD, Pope Gregory I enumerated seven transgressions that are fatal to spiritual progress and they became a central tenet in Roman Catholic theology.[\[1\]](#_ftn1) It’s important to note that while everyone may experience all of these to some degree, the seven deadly sins relate to the extreme, habitual, and drastic adherence to these qualities. 
+In the movie, *Se7en*, two detectives, William Somerset (Morgan Freeman) and David Mills (Brad Pitt), investigate a series of brutal murders that appear to revolve around a theme of the seven deadly sins. Although not explicitly listed in the Bible, in 590 AD, Pope Gregory I enumerated seven transgressions that are fatal to spiritual progress and they became a central tenet in Roman Catholic theology.\[1\] It’s important to note that while everyone may experience all of these to some degree, the seven deadly sins relate to the extreme, habitual, and drastic adherence to these qualities.
 
 1. Pride (Hubris/arrogance leading to disdain or disregard for others)
     
@@ -73,7 +73,7 @@ As the detectives delved deeper into each case, they faced not only the horrors 
 
 ***Spoiler Alert***
 
-*The next two paragraphs contain spoilers for the movie,* Se7en*. Please skip to the next section (after asterisks) if you still want to watch the movie and enjoy the surprise.*
+*The next two paragraphs contain spoilers for the movie,* Se7en\*. Please skip to the next section (after asterisks) if you still want to watch the movie and enjoy the surprise.\*
 
 \*\*\*\*\*\*\*
 
@@ -146,7 +146,7 @@ Some mottos of a few forensic professional associations can provide a guideline:
 
 **California Association of Crime Laboratory Directors**: “Advancing Forensic Science Through Effective Management”
 
-**The American Society of Crime Laboratory Directors**: “Excellence in Forensic Science Management through Leadership and Innovation” 
+**The American Society of Crime Laboratory Directors**: “Excellence in Forensic Science Management through Leadership and Innovation”
 
 **6\. Fame-Seeking**
 
@@ -154,7 +154,7 @@ This author will be blunt: when one enters forensics seeking to become famous, t
 
 If someone readily dismisses or disregards routine cases as “needless” or chooses to cherry-pick only high-profile cases to concentrate on, that is an immense and destructive disservice to the public and profession.
 
-Sheltri Gresham, former president of the California Association of Criminalists, wrote an excellent and informed feature on how the work of the forensic scientist is simply one part of a greater whole.[\[2\]](#_ftn2)
+Sheltri Gresham, former president of the California Association of Criminalists, wrote an excellent and informed feature on how the work of the forensic scientist is simply one part of a greater whole.\[2\]
 
 **7\. Anything Discriminatory**
 
@@ -399,6 +399,6 @@ The author hopes that this article has helped you gain some insights into vision
 
 ---
 
-[\[1\]](#_ftnref1) “Seven Deadly Sins | Definition, History, Names, & Examples | Britannica,” May 6, 2024, [https://www.britannica.com/topic/seven-deadly-sins](https://www.britannica.com/topic/seven-deadly-sins).
+\[1\] “Seven Deadly Sins | Definition, History, Names, & Examples | Britannica,” May 6, 2024, [https://www.britannica.com/topic/seven-deadly-sins](https://www.britannica.com/topic/seven-deadly-sins).
 
-[\[2\]](#_ftnref2) Gresham, Sheltri. "Criminalists in the Ocean of Action." *The CACNews*, Winter 2023 Issue 1, [https://www.cacnews.org/news/winter23issue1.pdf](https://www.cacnews.org/news/winter23issue1.pdf).
+\[2\] Gresham, Sheltri. "Criminalists in the Ocean of Action." *The CACNews*, Winter 2023 Issue 1, [https://www.cacnews.org/news/winter23issue1.pdf](https://www.cacnews.org/news/winter23issue1.pdf).
