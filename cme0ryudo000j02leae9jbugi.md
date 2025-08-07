@@ -28,9 +28,9 @@ In the merit badge guide, the first requirement isn’t to explain what orientee
 
 The very first requirement follows:
 
-Show that you know first aid for the types of injuries that could occur while orienteering, including cuts, scratches, blisters, snakebite, insect stings, tick bites, heat and cold reactions (sunburn, heatstroke, heat exhaustion, hypothermia), and dehydration. Explain to your counselor why you should be able to identify poisonous plants and poisonous animals that are found in your area.
+> Show that you know first aid for the types of injuries that could occur while orienteering, including cuts, scratches, blisters, snakebite, insect stings, tick bites, heat and cold reactions (sunburn, heatstroke, heat exhaustion, hypothermia), and dehydration. Explain to your counselor why you should be able to identify poisonous plants and poisonous animals that are found in your area.
 
-(from *Merit Badge Series: Orienteering*, Boy Scouts of America)
+—*Merit Badge Series: Orienteering*, Boy Scouts of America
 
 In order to master orienteering, you must understand how to perform first aid for any physical injuries or risks that you might encounter along the way. This is a crucial skill because orienteering often takes you through remote and rugged terrain where professional medical help may not be immediately accessible.
 
@@ -73,7 +73,7 @@ As the detectives delved deeper into each case, they faced not only the horrors 
 
 ***Spoiler Alert***
 
-*The next two paragraphs contain spoilers for the movie,* Se7en\*. Please skip to the next section (after asterisks) if you still want to watch the movie and enjoy the surprise.\*
+*The next two paragraphs contain spoilers for the movie,* Se7en. *Please skip to the next section (after asterisks) if you still want to watch the movie and enjoy the surprise.*
 
 \*\*\*\*\*\*\*
 
