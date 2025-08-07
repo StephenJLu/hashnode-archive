@@ -154,7 +154,9 @@ This author will be blunt: when one enters forensics seeking to become famous, t
 
 If someone readily dismisses or disregards routine cases as “needless” or chooses to cherry-pick only high-profile cases to concentrate on, that is an immense and destructive disservice to the public and profession.
 
-Sheltri Gresham, former president of the California Association of Criminalists, wrote an excellent and informed feature on how the work of the forensic scientist is simply one part of a greater whole.\[2\]
+Sheltri Gresham, former president of the California Association of Criminalists, wrote an excellent and informed feature on how the work of the forensic scientist is simply one part of a greater whole.
+
+“We all chose to be part of something bigger than ourselves.  We each chose to do our small parts with the understanding that it is our combined efforts that can lead to the resolution of even a singular incident,” she writes.\[2\]
 
 **7\. Anything Discriminatory**
 
