@@ -6,7 +6,7 @@ datePublished: Thu Aug 07 2025 02:25:38 GMT+0000 (Coordinated Universal Time)
 cuid: cme0ryudo000j02leae9jbugi
 slug: orienting-your-vision-in-forensics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754532807296/460e63ae-bd01-4e51-8742-6640d6794e59.png
-tags: vision, leadership, forensics
+tags: leadership, forensics
 
 ---
 
