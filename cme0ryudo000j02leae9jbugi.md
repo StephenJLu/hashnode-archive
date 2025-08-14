@@ -403,4 +403,4 @@ The author hopes that this article has helped you gain some insights into vision
 
 \[1\] “Seven Deadly Sins | Definition, History, Names, & Examples | Britannica,” May 6, 2024, [https://www.britannica.com/topic/seven-deadly-sins](https://www.britannica.com/topic/seven-deadly-sins).
 
-\[2\] Gresham, Sheltri. "Criminalists in the Ocean of Action." *The CACNews*, Winter 2023 Issue 1, [https://www.cacnews.org/news/winter23issue1.pdf](https://www.cacnews.org/news/winter23issue1.pdf).
+\[2\] Gresham, Sheltri. "Criminalists in the Ocean of Action." *The CACNews*, Winter 2023 Issue 1.
