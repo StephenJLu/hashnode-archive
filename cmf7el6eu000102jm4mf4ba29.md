@@ -22,7 +22,8 @@ Striae distinguishes itself as a cloud-native application targeting firearms exa
 
 ## Benefits of Being Cloud-Native (with Cloudflare)
 
-Global Deployment: Striae’s cloud-based architecture allows examiners to securely access their cases and tools from virtually anywhere with an internet connection, facilitating remote collaboration and evidence review regardless of physical lab location.
+* **Global Deployment**: Striae’s cloud-based architecture allows examiners to securely access their cases and tools from virtually anywhere with an internet connection, facilitating remote collaboration and evidence review regardless of physical lab location.
+    
 
 * **Data Security**: Cloudflare protection means industry-leading safeguards against DDoS attacks, unauthorized access, and application-layer threats. Zero Trust policies, web application firewalls, and global traffic monitoring provide strong defense for sensitive forensic data.
     
