@@ -18,13 +18,12 @@ Striae is one of the first, and potentially the very first, cloud-native forensi
 
 ## **Unique Position in Forensics**
 
-Striae distinguishes itself as a cloud-native application targeting firearms examiners with purpose-built annotation workflows, data management, and reporting functions rarely offered by other platforms designed for broader forensic use cases.
+Striae distinguishes itself as a cloud-native application aiming to benefit firearms examiners with purpose-built annotation workflows, data management, and reporting functions rarely offered by other platforms designed for broader forensic use cases.
 
 ## Benefits of Being Cloud-Native (with Cloudflare)
 
 * **Global Deployment**: Striae’s cloud-based architecture allows examiners to securely access their cases and tools from virtually anywhere with an internet connection, facilitating remote collaboration and evidence review regardless of physical lab location.
     
-
 * **Data Security**: Cloudflare protection means industry-leading safeguards against DDoS attacks, unauthorized access, and application-layer threats. Zero Trust policies, web application firewalls, and global traffic monitoring provide strong defense for sensitive forensic data.
     
 * **Low Overhead**: As a cloud-native platform, Striae eliminates the need for organizations to manage local servers or complex IT infrastructure, reducing both up-front and ongoing operational costs. Cloudflare’s network optimizations also drive down latency and maintenance expenses, ensuring reliable 24/7 service.
