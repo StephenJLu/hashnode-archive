@@ -52,7 +52,11 @@ Continuing the self-paced learning structure, Lingvano provides a convenient lea
 
 ### More Online and Printed Resources
 
-* [American Sign Language Dictionary, 3rd Edition - Martin L.A. Sternberg](https://www.amazon.com/American-Sign-Language-Dictionary-Third/dp/0062736345/)
+* [The ASL Dictionary App (Android, iOS) - Software Studios LLC](https://www.aslsignlanguagedictionary.com/)
+    
+* [The ASL Dictionary - Monolingual Edition - DawnSignPress - Ben Bahan, Beth Benedict, MJ Bienvenu, Lisa Jacobs](https://theasldictionary.com/)
+    
+* [American Sign Language Dictionary, 3rd Edition - Martin L](https://www.aslsignlanguagedictionary.com/)[.A. Sternberg](https://www.amazon.com/American-Sign-Language-Dictionary-Third/dp/0062736345/)
     
 * [The Gallaudet Dictionary of American Sign Language - Clayton Valli, Peggy Swartzel Lott, Daniel Renner, and Rob Hills](https://www.amazon.com/Gallaudet-Dictionary-American-Sign-Language/dp/1954622015)
     
@@ -71,4 +75,4 @@ Continuing the self-paced learning structure, Lingvano provides a convenient lea
 
 ---
 
-Have or own a resource you know about or would like to be listed here? [Please contact me](https://stephenjlu.com/contact)
+[Have or own a resource you know about or would like](https://theasldictionary.com/) to be listed here? [Please contact me](https://stephenjlu.com/contact)
