@@ -14,7 +14,7 @@ tags: resources, asl
 
 ## My ASL Journey
 
-Growing up, I got interested in learning ASL and I purchased a book. Back then, I learned the alphabet and a few basic signs, but not much else. Fast forward to today, with significant hearing problems and the loss of my voice, becoming fluent in ASL has become a much more urgent need. Throughout my ASL learning experience, I have used a number of resources to learn this difficult language. An essential part of the mindset shift is transitioning from an oral, auditory language to a visual one.
+Growing up, I got interested in learning ASL and I purchased a book. Back then, I learned the alphabet and a few basic signs, but not much else. Fast forward to today, living with hearing loss and the complete loss of my voice, becoming fluent in ASL has become a much more urgent need for communication and socializing. Throughout my ASL learning experience, I have used a number of resources to learn this difficult language. An essential part of the mindset shift is transitioning from an oral, auditory language to a visual one.
 
 Below are a few of the resources that are available out there. It's not an all-encompassing list, but maybe it'll be enough to get you started.
 
@@ -34,7 +34,7 @@ If you live in San Diego or Orange County, Language Door offers in-person and vi
 [https://www.tiktok.com/@jasegervase](https://www.tiktok.com/@jasegervase)  
 [https://www.facebook.com/aslpinnacle](https://www.facebook.com/aslpinnacle)
 
-Jason founded ASL Pinnacle to provide ASL learning in a supportive environment. He also provides tutoring sessions to expand on the lessons. In addition, Jason posts a bunch of free content revolving around ASL concepts on Instagram, Facebook, and TikTok.
+Jason founded ASL Pinnacle to provide ASL learning in a supportive environment. He also provides tutoring sessions and workshops with specific concept focus to expand on the lessons. In addition, Jason posts a bunch of free content revolving around ASL concepts on Instagram, Facebook, and TikTok.
 
 ## Lifeprint.com/ASLU - Dr. Bill Vicars
 
@@ -75,4 +75,4 @@ Continuing the self-paced learning structure, Lingvano provides a convenient lea
 
 ---
 
-[Have or own a resource you know about or would like](https://theasldictionary.com/) to be listed here? [Please contact me](https://stephenjlu.com/contact)
+Have or own a resource you know about or would like to be listed here? [Please contact me](https://stephenjlu.com/contact)
