@@ -72,6 +72,8 @@ Continuing the self-paced learning structure, Lingvano provides a convenient lea
     
 * [DawnSignPress](https://www.dawnsign.com/) - DawnSignPress creates, develops, and publishes quality American Sign Language (ASL) and Deaf culture-related videos and books.
     
+* [Handsail Publishing - Matt Daigle](https://handsail.net/)
+    
 
 ---
 
