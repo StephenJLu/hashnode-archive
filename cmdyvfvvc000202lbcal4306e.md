@@ -49,6 +49,12 @@ If self-learning and instruction are more your speed, Dr. Bill Vicars hosts and 
 
 Continuing the self-paced learning structure, Lingvano provides a convenient learning experience on the web and phone apps. You can start with a few lessons for free, then pay for more advanced learning. These are small, bite-sized lessons that can be done in 10-15 minutes per day. I've found that everyday practice will increase your retention and fluency dramatically. Lingvano also provides the option to view yourself signing the lessons and dialogue. I highly recommend that you not only watch and learn, but you also sign everything yourself. Fluency begins by doing it yourself, making mistakes, and learning from them.
 
+## Bob Rumball Foundation for the Deaf
+
+### [https://www.bobrumball.org/](https://www.bobrumball.org/)
+
+In addition to a wide range of ASL courses (virtual and in-person), Bob Rumball provides numerous services for the Deaf community. They provide the only long term care facility in Canada for the Deaf, Deaf camp for children, and a plethora of other services from infants to adults and seniors.
+
 ### More Online and Printed Resources
 
 * [The ASL Dictionary App (Android, iOS) - Software Studios LLC](https://www.aslsignlanguagedictionary.com/)
