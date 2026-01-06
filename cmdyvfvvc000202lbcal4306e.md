@@ -69,6 +69,8 @@ In addition to a wide range of ASL courses (virtual and in-person), Bob Rumball 
     
 * [Handspeak - Jolanta Lapiak](https://www.handspeak.com/)
     
+* [ASLCORE - RIT/NTID - Sarah Cannon, Miriam Lerner, and Sarah Schneckenburger](https://aslcore.org/)
+    
 * [Spread the Sign - Thomas Lydell](https://spreadthesign.com/en.us/search/)
     
 * [Signing Savvy - Marta Belsky, Brenda Cartwright, John Miller, Brian Winn, Jillian Winn](https://www.signingsavvy.com/)
