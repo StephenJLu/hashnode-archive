@@ -3,7 +3,6 @@ title: "What Public Service Means to Me"
 datePublished: Mon Nov 25 2024 20:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm4asyq94002709jjcq8edzz8
 slug: what-public-service-means-to-me
-canonical: https://www.stephenjlu.com/ledger/blog/What-Public-Service-Means-to-Me/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733371963824/001289c2-2397-463c-a770-170c8985896d.png
 
 ---
