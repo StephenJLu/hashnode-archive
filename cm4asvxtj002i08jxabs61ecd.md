@@ -3,9 +3,7 @@ title: "Something Just for Myself"
 datePublished: Sat Aug 31 2024 19:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm4asvxtj002i08jxabs61ecd
 slug: something-just-for-myself
-canonical: https://www.stephenjlu.com/ledger/blog/Something-Just-for-Myself/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733371874297/ce770438-3884-4824-837a-a81f98fd9b7d.png
-tags: life, health-cjaeh844x02vvo3wtj5r2s75q
 
 ---
 
