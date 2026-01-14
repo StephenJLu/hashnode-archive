@@ -6,6 +6,7 @@ datePublished: Tue Aug 05 2025 18:27:19 GMT+0000 (Coordinated Universal Time)
 cuid: cmdyvfvvc000202lbcal4306e
 slug: asl-learning-resources
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754418204606/d613298c-1197-4359-89e8-8c7b38aa5d60.png
+tags: sign-language, asl
 
 ---
 
@@ -54,6 +55,14 @@ Continuing the self-paced learning structure, Lingvano provides a convenient lea
 ### [https://www.bobrumball.org/](https://www.bobrumball.org/)
 
 In addition to a wide range of ASL courses (virtual and in-person), Bob Rumball provides numerous services for the Deaf community. They provide the only long term care facility in Canada for the Deaf, Deaf camp for children, and a plethora of other services from infants to adults and seniors.
+
+## Sign Duo
+
+### [YouTube Channel](https://www.youtube.com/@SignDuoChannel)
+
+### [Sign Duo Patreon](https://www.patreon.com/c/signduo/home?vanity=signduo)
+
+Ryan and Ellen vlog about navigating life as a Deaf and Hearing couple. When I began to really dive into ASL, I watched their videos to improve my receptivity and to learn a little more about Deaf culture. They are engaging, honest, and heartfelt.
 
 ### More Online and Printed Resources
 
