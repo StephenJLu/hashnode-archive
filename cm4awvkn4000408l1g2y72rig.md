@@ -323,7 +323,7 @@ To review:
 
 ### CodeSandbox
 
-<iframe src="https://codesandbox.io/embed/t46kwd?view=preview&amp;module=%2Fsrc%2FMenuBar.tsx&amp;hidenavigation=1&amp;expanddevtools=1" style="width:100%;height:75vh;border:0;border-radius:4px;overflow:hidden" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+<iframe src="https://codesandbox.io/embed/t46kwd?view=preview&module=%2Fsrc%2FMenuBar.tsx&hidenavigation=1&expanddevtools=1" style="width:100%;height:75vh;border:0;border-radius:4px;overflow:hidden" sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
 
 ### What's Next?
 
@@ -332,11 +332,3 @@ Make the menu bar responsive to screen size (desktop vs. mobile).
 ---
 
 Whew! I hope this helps a bit, and you got a good look at how I created a basic menu bar for my website. Feel free to drop a comment below or [contact me](https://www.stephenjlu.com/contact#main). Happy coding!
-
-## Changelog
-
-12/5/2024
-
-* Added a note about React
-    
-* Added CodeSandbox
