@@ -15,7 +15,7 @@ tags: adobe, photoshop, animation, illustrator, imagemagick, after-effects, star
 
 In the course of converting my website, I’ve been thinking up of fun things to accomplish to make my website more interesting and attractive. One idea came to me earlier this week revolving around my photograph of San Diego’s skyline.
 
-[I wanted to make it sparkle](https://storybook.stephenjlu.com/iframe?globals=&args=&id=page--home-page&viewMode=story). Here’s how I did it.
+I wanted to make it sparkle. Here’s how I did it.
 
 ***Artificial Intelligence Note:*** *While I produced a majority of the work and art, I used AI (*[*Adobe Firefly*](https://www.adobe.com/products/firefly.html)*) to generate the static image of a starry night to complement the animation. That’s the limit of AI use in this article.*
 
@@ -142,14 +142,6 @@ To create my GIF, I chose to create a PNG sequence first, then used [**ImageMagi
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733548784932/dd7df7e0-aeb2-4bd9-84eb-97ca92039183.png align="center")
 
-And there you have it! If you want to see the animation in action, [check out the Storybook](https://storybook.stephenjlu.com/iframe?globals=&args=&id=page--home-page&viewMode=story).
+And there you have it! If you want to see the animation in action, check out [my website](https://www.StephenJLu.com).
 
 Hopefully, this gave you some ideas and ways to create your own. And never forget, ***you’re a star!***
-
-## Changelog
-
-December 7, 2024
-
-* I made the header image a static image that I added the stars in. The contrast between the star field and skyline was too sharp, and I didn't really like that.
-    
-* Instead, I made the page background an animated star field and am now working on making it a darkly themed website.
