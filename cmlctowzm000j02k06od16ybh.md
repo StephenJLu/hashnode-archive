@@ -10,7 +10,7 @@ tags: ada, equality, employment-law, civil-rights, harassment-training, eeoc, fm
 
 ---
 
-Back in 2024, I created this presentation as part of the Forensic Leaders Training Center. In a few professional groups I am a part of today, we have been discussing the ADA and other employment law issues. To share what I had learned, I revived this presentation from my archives. You can find the full presentation below, along with some PDF resources about employment law underneath.
+Back in 2024, I created this presentation as part of the Forensic Leaders Training Center®. In a few professional groups I am a part of today, we have been discussing the ADA and other employment law issues. To share what I had learned, I revived this presentation from my archives. You can find the full presentation below, along with some PDF resources about employment law underneath.
 
 ---
 
