@@ -18,7 +18,7 @@ Back in 2024, I created this presentation as part of the Forensic Leaders Traini
 
 ---
 
-## Resources
+## More Resources
 
 [US Employment Law 101 Slide Deck](https://www.StephenJLu.com/docs/employment-law/us-employment-law-101-slides.pdf)
 
