@@ -4,7 +4,7 @@ datePublished: Thu Dec 05 2024 06:03:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm4awvkn4000408l1g2y72rig
 slug: how-i-made-a-basic-menu-bar
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733374769944/4467bd2d-b50f-4d96-a020-97a137fde6aa.png
-tags: reactjs, coding, components, storybook
+tags: reactjs, coding, typescript, components, storybook
 
 ---
 
@@ -310,15 +310,15 @@ export const Active: Story = {
 
 I’ll admit, I was a little overwhelmed at first with this different kind of thinking. As I’ve used it more and more, however, I’m beginning to really enjoy coding this.
 
-In the end, Storybook takes these three files (menuBar.css, MenuBar.tsx, menuBar.stories.ts) and paints a complete picture of a single component independent of any other element, allowing you to look at how it looks and behaves on its own.
+In the end, Storybook takes these three files (`menuBar.css`, `MenuBar.tsx`, `menuBar.stories.ts`) and paints a complete picture of a single component independent of any other element, allowing you to look at how it looks and behaves on its own.
 
 To review:
 
-* menuBar.css - Provides the styling and isolated CSS animations
+* `menuBar.css` - Provides the styling and isolated CSS animations
     
-* MenuBar.tsx - Provides the logic for the component
+* `MenuBar.tsx` - Provides the logic for the component
     
-* menuBar.stories.ts - Provides the instructions for examination in Storybook
+* `menuBar.stories.ts` - Provides the instructions for examination in Storybook
     
 
 ### CodeSandbox
