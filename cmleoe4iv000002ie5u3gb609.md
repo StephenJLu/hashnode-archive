@@ -50,7 +50,7 @@ In the Summer 1996 edition of the *CACNews*, Peter Barnett advertised the first 
 
 ---
 
-Adapting from Peter’s first webpage, Mark Traughber had the clarity of vision to create and host the first CAC website in 1998 at https://www.cacnews.org.
+Adapting from Peter’s first webpage, Mark Traughber had the clarity of vision to create and host the first CAC website in 1998 at [https://www.cacnews.org](https://www.cacnews.org).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1770610367407/20719240-4402-4a8e-a8a2-97f764ad645d.png align="center")
 
