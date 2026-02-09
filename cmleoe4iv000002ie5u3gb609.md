@@ -34,7 +34,7 @@ As the Internet and the first generation of the World Wide Web emerged in the la
 
 For the CAC, the gradual adoption of a website and electronic versions of the *CACNews* created a centralized, always‑available hub where members could access archives, seminar information, policy documents, and committee materials without waiting for physical mailings. This shift supported faster dissemination of technical articles and announcements, broadened access to historical issues of the newsletter (now spanning decades online), and laid the groundwork for later use of web‑based forms, social media, and other online tools to keep a geographically dispersed membership connected and engaged.
 
-A well-designed website is vital for an organization like the CAC, the oldest regional professional association for criminalists in the United States. As a cornerstone of member communication, the website serves as a central hub where members and the public can access updates on our conferences, engage with the forensic community, and stay informed about its operations. The inclusion of the *CACNews* Archive is particularly significant, as it is the preservation of decades of the association’s history, writing, insights, and advancements in the field of criminalistics. It creates a deeper connection to its members’ legacies.
+A well-designed website is vital for an organization like the CAC, the oldest regional professional association for criminalists in the United States. As a cornerstone of member communication, the website serves as a central hub where members and the public can access updates on conferences, engage with the forensic community, and stay informed about its operations. The inclusion of the *CACNews* Archive is particularly significant, as it is the preservation of decades of the association’s history, writing, insights, and advancements in the field of criminalistics. It creates a deeper connection to its members’ legacies.
 
 The Internet and websites have only been around since the late 1980s, but the CAC has endured since the 1950s. By providing this intuitive and freely accessible platform, the CAC enhances engagement with the membership, ensures the continuity of its mission, and upholds its reputation as a trusted, established resource for forensic professionals worldwide.
 
@@ -68,7 +68,7 @@ Finally, in 2010, Eric Halsing relieved Mark and brought his own creative vision
 
 As time went on, the website evolved with current technologies and styling, utilizing images and graphics more than text as the foundation of its interface.
 
-In 2019, Stephen Lu took over from Eric, which brings the website to its current implementation today (January 2, 2025).
+In 2019, I (Stephen Lu) took over from Eric, which brings the website to its current implementation today (January 2, 2025).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1770610717127/eed4807a-ff0f-4918-9521-8e03212583b2.png align="center")
 
@@ -78,7 +78,7 @@ In 2019, Stephen Lu took over from Eric, which brings the website to its current
 
 The Webmasters have made recent updates to the important *CACNews* archive, which includes an archive browser by year and a search function specific to the archive itself.
 
-Building and maintaining a website is not a one-person job, as Mark and Eric would probably be able to discuss in detail. Today, the Webmasters are keeping the CAC Website fresh and up-to-date with current technologies and trends to ensure that the CAC legacy will last for many years more.
+Building and maintaining a complex website is not a one-person job, as Mark and Eric would probably be able to discuss in detail. Today, the Webmasters are keeping the CAC Website fresh and up-to-date with current technologies and trends to ensure that the CAC legacy will last for many years more.
 
 ---
 
