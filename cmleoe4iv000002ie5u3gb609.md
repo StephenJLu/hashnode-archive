@@ -22,7 +22,7 @@ As the CAC grew and developed, it became widely described as the first regional 
 
 ## CAC’s Influence and Efforts in National Standards
 
-In 1976, the CAC formed a Criminalistics Certification Study Committee (CCSC) to explore professional certification for criminalists, one of the earliest organized efforts to create a formal credential in the field. While initially rejected in 1978 by a national referendum of practitioners, the CAC continued forward with renewed efforts in 1986, and offered the first certification examination in 1989. Since then, efforts to provide a national certification board for criminalists in the United States evolved through the American Board of Criminalistics (ABC).
+In 1976, the CAC formed a Criminalistics Certification Study Committee (CCSC) to explore professional certification for criminalists, one of the earliest organized efforts to create a formal credential in the field. Despite initial rejection in 1978 by a national referendum of practitioners, the CAC continued forward with renewed efforts in 1986, and offered the first certification examination in 1989. Since then, efforts to provide a national certification board for criminalists in the United States evolved through the American Board of Criminalistics (ABC).
 
 Responding to calls made in the National Academy of Sciences’ Report, *Strengthening Forensic Science in the United States: A Path Forward*, aka the NAS *Report*, the CAC published *A Model for a National Code of Professional Conduct in the Forensic Sciences* in an effort to codify professional ethical standards for forensic scientists throughout the nation.
 
@@ -42,7 +42,7 @@ The Internet and websites have only been around since the late 1980s, but the CA
 
 From 1996 to 2019, the original three webmasters were Peter Barnett (1996-1998), Mark Traughber (1998-2010), and Eric Halsing (2010-2019). These forward-thinking professionals laid the foundation for the CAC Website as it stands today.
 
-In the Summer 1996 edition of the *CACNews*, Peter Barnett advertised the first CAC webpage, which was hosted by the American Board of Criminalistics on their website, [https://www.criminalistics.com](https://www.criminalistics.com).
+In the Summer 1996 edition of the *CACNews*, Peter Barnett advertised the first CAC webpage, which the American Board of Criminalistics hosted on their website, [https://www.criminalistics.com](https://www.criminalistics.com).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1770609695198/90fc5a0b-2f0b-4c96-b184-5492ef90ddb1.png align="center")
 
